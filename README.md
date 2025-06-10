@@ -28,7 +28,7 @@ Key steps:
 This dashboard helps explore overall book trends — useful for anyone analysing literature databases, publishing data, or general interest in data storytelling using Power BI.
 
 ## 📸 Dashboard Screenshot
-![Book Dashboard](Dataset and Image/book.jpg)
+![Book Dashboard](DatasetandImage/book.jpg)
 
 
 
